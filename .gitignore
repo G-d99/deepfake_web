@@ -1,0 +1,8 @@
+﻿dataset/
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.avi
+*.mov
+*.joblib
